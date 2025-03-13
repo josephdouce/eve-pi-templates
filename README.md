@@ -8,3 +8,5 @@ P0-P2
 P2-P3
 
 ![image](https://github.com/user-attachments/assets/9b2e72e2-ec98-4605-b966-756b48e21972)
+
+Thanks to https://github.com/DalShooth/EVE_PI_Templates?tab=readme-ov-file
